@@ -1,0 +1,15 @@
+siddhantgolangade@sidstation Python-Script-To-Execute-Shell-Commands-and-Scripts % /usr/local/bin/python3 "/Users/siddhantgolangade/Documents/VScode Data/Python-Script-To-Execute-Shell-Commands-and-Scripts/ShellComman
+dsShellScript.py"
+Enter the hostname: ec2-xxxxxxxxxxxxxxx-eu-west-1.compute.amazonaws.com
+Enter the username: ec2-user
+Enter the private_key_path: /Users/siddhantgolangade/Documents/VScode Data/EC2-RHEL-Instance-KP.pem
+Enter the output file name (.txt): PerformanceOutput.txt
+PID %CPU %MEM COMMAND USER
+--------------------------
+18974 31.2 0.7 stress-+ ec2-user
+18975 25.0 0.7 stress-+ ec2-user
+18973 25.0 0.7 stress-+ ec2-user
+968 0.0 0.1 agetty root
+967 0.0 0.1 agetty root
+
+--------------------------

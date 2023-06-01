@@ -1,0 +1,6 @@
+PID %CPU %MEM COMMAND USER
+18974 31.2 0.7 stress-+ ec2-user
+18975 25.0 0.7 stress-+ ec2-user
+18973 25.0 0.7 stress-+ ec2-user
+968 0.0 0.1 agetty root
+967 0.0 0.1 agetty root
