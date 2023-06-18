@@ -7,11 +7,7 @@ This Python script connects to an AWS EC2 RHEL instance and retrieves system res
 - Required Python packages: `paramiko`
 
 ### Usage
-1. Clone the repository to your local machine.
-2. Install the `paramiko` package by running `pip install paramiko` in your terminal.
-3. Update the `hostname`, `username`, `private_key_path`, and `output_file` variables in the script with the appropriate values.
-4. Run the script using the command `python system_resource_monitor.py`.
-5. The script will connect to the EC2 instance, retrieve the system resource information, sort and display the top 5 processes, and save the sorted output to the specified output file.
+The script will connect to the EC2 instance, retrieve the system resource information, sort and display the top 5 processes, and save the sorted output to the specified output file.
 
 ### Output
 The script will display the sorted output to the console with the following information for each process:
