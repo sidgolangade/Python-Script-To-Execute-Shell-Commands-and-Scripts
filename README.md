@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-v3.11.x-FFD43B) ![RHEL](https://img.shields.io/badge/RHEL-v9.x-CC0000) ![AWS-EC2](https://img.shields.io/badge/AWS-RDS-FF9900)
+![Python](https://img.shields.io/badge/Python-v3.11.x-FFD43B) ![RHEL](https://img.shields.io/badge/RHEL-v9.x-CC0000) ![AWS-EC2](https://img.shields.io/badge/AWS-EC2-FF9900)
 
 # Python-Script-To-Execute-Shell-Commands-and-Scripts
 
